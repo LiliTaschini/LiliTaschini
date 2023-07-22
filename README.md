@@ -35,9 +35,11 @@
 
 ⚡ Fun fact: Food and Music🎵 are the reasons to live.
 
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
-
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! 
 ## Where to see my work? ⭐
+-->
+
+
 
 
 
