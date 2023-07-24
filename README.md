@@ -28,8 +28,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<br>
-
 ## About me 🖐
  🚀 A passionate Self-taught Front-end developer. I’m currently learning React, React Native and English.
  
@@ -45,7 +43,7 @@
 ## Where to see my work? ⭐
 -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=LiliTaschini&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LiliTaschini&theme=dracula&hide_border=false)
