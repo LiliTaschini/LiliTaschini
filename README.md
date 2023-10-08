@@ -1,9 +1,5 @@
-<div align="center">
- <h1 align="center">- Hi there, I'm Lili - <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="35"/></h1>
+ <div align="center"> <code> - Hi there, I'm Lili - </code> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="35"/> </div>
   <h3 align="center">Web Developer | IT Technician | FrontEnd Enthusiast</h3>
-</div>
-
 
 
 ## Tech Stack 🤸‍♂
